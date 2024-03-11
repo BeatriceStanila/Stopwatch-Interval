@@ -8,6 +8,8 @@
         public static void Main(string[] args)
         {
             //initialize  a new instance for StopWatch class
+            var stopwatch = new StopWatch();
+
         }
     }
 }
