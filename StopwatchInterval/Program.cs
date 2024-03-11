@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Watch
+{
+
+
+
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            //initialize  a new instance for StopWatch class
+        }
+    }
+}
